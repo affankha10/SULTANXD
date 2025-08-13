@@ -25,13 +25,13 @@ const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Kolkata").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
 ["https://i.postimg.cc/4yVw6tm7/Picsart-23-03-26-11-08-19-025.jpg", "https://i.imgur.com/rg0fjQE.jpg", "https://i.imgur.com/QcNXYfT.jpg", "https://i.imgur.com/WhVSHLB.png"];
-var callback = () => api.sendMessage({body:`🌹𝙰𝙳𝙼𝙸𝙽 𝙰𝙽𝙳 𝙱𝙾𝚃 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 🇮🇳 
+var callback = () => api.sendMessage({body:`🌹ADMIN AND BOT INFORMATION 🇮🇳 
 
 
 ☄️𝗕𝗢𝗧 𝗡𝗔𝗠𝗘☄️ ⚔ ${global.config.BOTNAME} ⚔
 
 🔥𝗢𝗪𝗡𝗘𝗥 🔥☞︎︎︎ 𝗠𝗔𝗛𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗 ☜︎︎︎✰ \n\n
-🙈🄾🅆🄽🄴🅁 🄲🄾🄽🅃🄰🄲🅃 🄻🄸🄽🄺🅂🙈➪ \n\n  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 🧨https://www.facebook.com/mahtab.ahmad.985178 💞🕊️
+🙈OWNER CONTACT LINK🙈➪ \n\n  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 🧨https://www.facebook.com/mahtab.ahmad.985178 💞🕊️
   \n 
 ✅𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘👉 @ali_up46 \n\n  ====
 ✧══════•❁❀❁•══════✧
