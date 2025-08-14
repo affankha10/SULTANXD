@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "Bot fyt",
+    name: "war",
     version: "1.0.0",
     hasPermssion: 2,
     credits: "MAHTAB AHMAD",
