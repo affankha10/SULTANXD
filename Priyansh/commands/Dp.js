@@ -3,9 +3,9 @@ module.exports.config = {
   version: "1.0.0",
   hasPermssion: 0,
   credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
-  description: "Random ảnh ayaka",
+  description: "Random ảnh Dp",
   commandCategory: "Random-IMG",
-  usages: "ayaka",
+  usages: "Dp",
   cooldowns: 5,
   dependencies: {
     "request":"",
