@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "inf",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "Mahtab mhmad", //don't change the credits please
+	credits: "Sultan", //don't change the credits please
 	description: "Admin and Bot info.",
 	commandCategory: "info",
 	cooldowns: 1,
@@ -30,8 +30,8 @@ var callback = () => api.sendMessage({body:`🌹ADMIN AND BOT INFORMATION 🇮�
 
 ☄️𝗕𝗢𝗧 𝗡𝗔𝗠𝗘☄️ ⚔ ${global.config.BOTNAME} ⚔
 
-🔥𝗢𝗪𝗡𝗘𝗥 🔥☞︎︎︎ 𝗠𝗔𝗛𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗 ☜︎︎︎✰ \n\n
-🙈OWNER CONTACT LINK🙈➪ \n\n  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 🧨https://www.facebook.com/mahtab.ahmad.985178 💞🕊️
+🔥𝗢𝗪𝗡𝗘𝗥 🔥☞︎︎︎ SULTAN  ☜︎︎︎✰ \n\n
+🙈OWNER CONTACT LINK🙈➪ \n\n  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 🧨https://www.facebook.com/SULTANXDBRAND/ 💞🕊️
   \n 
 ✅𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘👉 @ali_up46 \n\n  ====
 ✧══════•❁❀❁•══════✧
