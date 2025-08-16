@@ -1,9 +1,9 @@
  const fs = require("fs");
 module.exports.config = {
-	name: "mahtab",
+	name: "sultan",
     version: "1.0.1",
 	hasPermssion: 0,
-	credits: "Sultan", 
+	credits: "sultan", 
 	description: "no prefix",
 	commandCategory: "No command marks needed",
 	usages: "...",
