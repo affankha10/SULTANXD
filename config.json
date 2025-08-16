@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "MAHTAB",
+    "BOTNAME": "Sultan",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100033685782498"
+        "7581812878603766"
     ],
     "NDH": [
-        "100033685782498"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
